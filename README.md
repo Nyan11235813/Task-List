@@ -1,0 +1,1 @@
+I developed a daily task tracker using HTML, CSS, and JavaScript, featuring a responsive design for seamless use across devices. The application allows users to add, delete, and mark tasks as completed, with a clean and intuitive interface. A scroll bar ensures smooth navigation for longer task lists, while the simple yet effective design enhances productivity and usability.
